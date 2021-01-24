@@ -1,0 +1,6 @@
+#!name=disableWbVideoFeed
+#!desc=禁止微博视频流
+[Script]
+http-response ^https?:api.weibo.cn/2/video/tiny_stream_video_list,requires-body=1,max-size=-1,script-path=,debug=true
+[MITM]
+hostname = %APPEND% api.weibo.cn
