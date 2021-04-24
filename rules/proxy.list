@@ -3,3 +3,10 @@ DOMAIN-SUFFIX,phncdn.com
 # twitter
 PROCESS-NAME,Twitter
 DOMAIN-SUFFIX,twimg.com
+
+# steam
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN,store.steampowered.com
+# setam
