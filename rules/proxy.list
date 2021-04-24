@@ -10,3 +10,22 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN,store.steampowered.com
 # setam
+
+
+DOMAIN,raw.githubusercontent.com
+DOMAIN,github.githubassets.com
+DOMAIN,plex.tv.com
+DOMAIN-KEYWORD,regex101
+DOMAIN-KEYWORD,wikipedia.org
+# # surgio
+DOMAIN-KEYWORD,royli
+DOMAIN-KEYWORD,qnap
+DOMAIN-KEYWORD,ifixit
+DOMAIN-KEYWORD,keyboardmaestro
+DOMAIN-KEYWORD,www.google.com
+DOMAIN-KEYWORD,github.com
+DOMAIN-KEYWORD,githubusercontent.com
+DOMAIN-KEYWORD,notion.so
+DOMAIN-KEYWORD,pydata
+DOMAIN-KEYWORD,pandas
+DOMAIN-KEYWORD,stackoverflow.com
