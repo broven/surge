@@ -1,9 +1,9 @@
 # 小米电视乐播投屏
-DOMAIN sdkauth.hpplay.cn
-DOMAIN adeng.hpplay.cn
-DOMAIN ad.hpplay.cn
-DOMAIN conf.hpplay.cn
-DOMAIN fix.hpplay.cn
-DOMAIN adcdn.hpplay.cn
-DOMAIN sl.hpplay.cn
-DOMAIN rp.hpplay.cn
+DOMAIN,sdkauth.hpplay.cn
+DOMAIN,adeng.hpplay.cn
+DOMAIN,ad.hpplay.cn
+DOMAIN,conf.hpplay.cn
+DOMAIN,fix.hpplay.cn
+DOMAIN,adcdn.hpplay.cn
+DOMAIN,sl.hpplay.cn
+DOMAIN,rp.hpplay.cn
