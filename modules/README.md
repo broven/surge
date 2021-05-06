@@ -11,6 +11,6 @@ https://raw.githubusercontent.com/keyvchan/dotfiles/6bf85be84749f5a5d0226aaba5ef
 ## 疑难杂症
 ### 脚本开启后无效?
 有以下几种可能, 可能性依次递减
-- 其他的脚本, 在添加hostname时, 没有使用 %APPEND%, 导致覆盖, 检查下 其他脚本
+- 其他的脚本, 在添加hostname时, 没有使用 `%APPEND%`, 导致覆盖, 检查下 其他脚本
 - 看看你的配置文件里有没有 `hostname-disabled`, 干掉
 - 脚本弃坑了(大概率不会)
