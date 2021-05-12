@@ -47,17 +47,9 @@ DOMAIN,docs-assets.developer.apple.com
 
 
 
-DOMAIN-SUFFIX,t.me,👉 ClassicProxy
-DOMAIN-SUFFIX,tdesktop.com,👉 ClassicProxy
-DOMAIN-SUFFIX,telegra.ph,👉 ClassicProxy
-DOMAIN-SUFFIX,telegram.me,👉 ClassicProxy
-DOMAIN-SUFFIX,telegram.org,👉 ClassicProxy
-IP-CIDR,67.198.55.0/24,👉 ClassicProxy,no-resolve
-IP-CIDR,91.108.4.0/22,👉 ClassicProxy,no-resolve
-IP-CIDR,91.108.8.0/22,👉 ClassicProxy,no-resolve
-IP-CIDR,91.108.12.0/22,👉 ClassicProxy,no-resolve
-IP-CIDR,91.108.16.0/22,👉 ClassicProxy,no-resolve
-IP-CIDR,91.108.56.0/22,👉 ClassicProxy,no-resolve
-IP-CIDR,109.239.140.0/24,👉 ClassicProxy,no-resolve
-IP-CIDR,149.154.160.0/20,👉 ClassicProxy,no-resolve
-IP-CIDR,205.172.60.0/22,👉 ClassicProxy,no-resolve
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+
