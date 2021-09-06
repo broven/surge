@@ -62,6 +62,7 @@ DOMAIN-KEYWORD,alibaba-inc
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alipay-inc
 DOMAIN-KEYWORD,aliyuncs
+PROCESS-NAME,oss-browser
 DOMAIN-KEYWORD,damai
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
@@ -235,4 +236,8 @@ DOMAIN-SUFFIX,mymm.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taopiaopiao.cn
+
+
+DOMAIN-SUFFIX,steamcontent.com
+PROCESS-NAME,DingTalk
 
