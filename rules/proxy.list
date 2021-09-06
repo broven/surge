@@ -1,3 +1,10 @@
+# v2ex
+DOMAIN-SUFFIX,v2ex.com
+# media
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,medium.com
+
+# pornhub
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 # twitter
@@ -46,7 +53,7 @@ DOMAIN,js-cdn.music.apple.com
 DOMAIN,docs-assets.developer.apple.com
 
 
-
+# tg
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
