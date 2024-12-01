@@ -1,5 +1,7 @@
 #Bybit
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,byapps
+DOMAIN-KEYWORD,bybdc
 DOMAIN-SUFFIX,byd3c3.com
 USER-AGENT,bybit_app
+PROCESS-NAME,bybit_app
