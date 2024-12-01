@@ -1,0 +1,7 @@
+#!name=禁用Github源码缓存
+#!desc=通过修改Http Response Headers，禁用Github源码缓存
+[Header Rewrite]
+http-response ^https://raw.githubusercontent.com header-replace cache-control no-cache
+[MITM]
+hostname = %APPEND% raw.githubusercontent.com
+
