@@ -3,5 +3,11 @@ DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,byapps
 DOMAIN-KEYWORD,bybdc
 DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,saasexch.io
+DOMAIN-SUFFIX,bnappweb.academy
+DOMAIN-SUFFIX,saasexch.io
+USER-AGENT,bybit*
 USER-AGENT,bybit_app
 PROCESS-NAME,bybit_app
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,binance.com
