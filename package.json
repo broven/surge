@@ -1,0 +1,22 @@
+{
+  "name": "surge",
+  "version": "1.0.0",
+  "description": "my surge scripts collection",
+  "homepage": "https://github.com/broven/surge#readme",
+  "bugs": {
+    "url": "https://github.com/broven/surge/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broven/surge.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "serve": "serve -s rules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
