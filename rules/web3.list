@@ -1,3 +1,4 @@
+
 #Bybit
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,byapps
@@ -11,3 +12,15 @@ USER-AGENT,bybit_app
 PROCESS-NAME,bybit_app
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,binance.com
+
+#Binance CDN
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,nftstatic.com
+
+#Exchange
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.co
+
+#Cookie/Privacy (交易所常用)
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,cookielaw.org
